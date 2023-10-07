@@ -62,11 +62,11 @@ These top customers, spread across different segments, have made significant pur
 </pre>
 <img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/8510d7a9-0eb3-478f-b7cd-1bd952d88ff4">
 <br/>
-* Sales decreased from $479,000 to $459,000, indicating a slight decline of approximately -4.18%. This period might have witnessed challenges or market fluctuations that impacted sales negatively.
+* 2015 to 2016 (Negative Trend): Sales decreased from $479,000 to $459,000, indicating a slight decline of approximately -4.18%. This period might have witnessed challenges or market fluctuations that impacted sales negatively.
 <br/>
-* Sales increased significantly from $459,000 to $600,000, showing a substantial growth of approximately 30.68%. This substantial uptick suggests that strategic initiatives or changes in the market positively influenced sales during this period.
+* 2016 to 2017 (Positive Trend): Sales increased significantly from $459,000 to $600,000, showing a substantial growth of approximately 30.68%. This substantial uptick suggests that strategic initiatives or changes in the market positively influenced sales during this period.
 <br/>
-* Sales continued to rise, reaching $722,000, reflecting a growth of approximately 20.33%. This positive trend indicates that the strategies implemented in the previous year continued to have a favorable impact, leading to increased sales.
+* 2017 to 2018 (Positive Trend): Sales continued to rise, reaching $722,000, reflecting a growth of approximately 20.33%. This positive trend indicates that the strategies implemented in the previous year continued to have a favorable impact, leading to increased sales.
 <pre>
 
 
