@@ -68,4 +68,4 @@ These top customers, spread across different segments, have made significant pur
 <br/>
 * Sales continued to rise, reaching $722,000, reflecting a growth of approximately 20.33%. This positive trend indicates that the strategies implemented in the previous year continued to have a favorable impact, leading to increased sales.
 
-# <em>The Full presentation in Report file</em>
+<em>The Full presentation in Report file</em>
