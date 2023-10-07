@@ -67,5 +67,12 @@ These top customers, spread across different segments, have made significant pur
 * Sales increased significantly from $459,000 to $600,000, showing a substantial growth of approximately 30.68%. This substantial uptick suggests that strategic initiatives or changes in the market positively influenced sales during this period.
 <br/>
 * Sales continued to rise, reaching $722,000, reflecting a growth of approximately 20.33%. This positive trend indicates that the strategies implemented in the previous year continued to have a favorable impact, leading to increased sales.
+<pre>
 
-<em>The Full presentation in Report file</em>
+
+
+
+   
+</pre>
+<em>The Full presentation in <a href="[doc:introduction](https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf)https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf" target="_blank">Report file</a> </em>
+
