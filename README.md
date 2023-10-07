@@ -30,3 +30,21 @@ PowerPoint: Chart Re-Design and Report Presentation
 <img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/96c903a3-bd25-4414-a3af-c8255f2344e1">
 <br/>
 We rank the Consumer segment as representing the largest portion, comprising 51.2% of our total customers. This group, with 5,019 customers, stands as the most substantial customer segment within our megastore. The Corporate segment follows with 2,941 customers, accounting for 30.1% of our customer base, while the Home Office segment, with 1,740 customers, makes up the remaining 17.8%.
+<pre>
+
+
+
+
+   
+</pre>
+<img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/ad8a53d8-7556-443a-848c-ba75a7275863">
+Sales figures highlight the significant revenue generated from the Consumer segment, which aligns with their larger customer base. It is essential to continue analyzing and strategizing for each customer category to maximize growth and cater to their unique needs.
+<pre>
+
+
+
+
+   
+</pre>
+<img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/d35eb86e-b9a2-4e15-a081-d59673ca80e8">
+These top customers, spread across different segments, have made significant purchases, contributing significantly to our overall sales revenue.
