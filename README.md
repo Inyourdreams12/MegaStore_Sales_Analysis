@@ -38,6 +38,8 @@ We rank the Consumer segment as representing the largest portion, comprising 51.
    
 </pre>
 <img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/ad8a53d8-7556-443a-848c-ba75a7275863">
+<br/>
+
 Sales figures highlight the significant revenue generated from the Consumer segment, which aligns with their larger customer base. It is essential to continue analyzing and strategizing for each customer category to maximize growth and cater to their unique needs.
 <pre>
 
@@ -47,4 +49,23 @@ Sales figures highlight the significant revenue generated from the Consumer segm
    
 </pre>
 <img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/d35eb86e-b9a2-4e15-a081-d59673ca80e8">
+<br/>
+
 These top customers, spread across different segments, have made significant purchases, contributing significantly to our overall sales revenue.
+
+<pre>
+
+
+
+
+   
+</pre>
+<img width="1461" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/assets/119731058/8510d7a9-0eb3-478f-b7cd-1bd952d88ff4">
+<br/>
+Sales decreased from $479,000 to $459,000, indicating a slight decline of approximately -4.18%. This period might have witnessed challenges or market fluctuations that impacted sales negatively.
+<br/>
+Sales increased significantly from $459,000 to $600,000, showing a substantial growth of approximately 30.68%. This substantial uptick suggests that strategic initiatives or changes in the market positively influenced sales during this period.
+<br/>
+Sales continued to rise, reaching $722,000, reflecting a growth of approximately 20.33%. This positive trend indicates that the strategies implemented in the previous year continued to have a favorable impact, leading to increased sales.
+
+## "The Full presentation in Report file" 
