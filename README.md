@@ -74,5 +74,5 @@ These top customers, spread across different segments, have made significant pur
 
    
 </pre>
-<em>The Full presentation in <a href="https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf)https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf" target="_blank">Report file</a> </em>
+<em>The Full presentation in <a href="[https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf)https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf" target="_blank](https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf)https://github.com/Inyourdreams12/MegaStore_Sales_Analysis/blob/main/%5BReport%5DMEGASTORE_20152018.pdf">Report file</a> </em>
 
