@@ -5,7 +5,7 @@ This analysis guided our strategic decisions, enabling us to stay relevant and t
 
 ## The Objective: 
 • Which customer category has the highest number of customers and sales? <br/>
-• Who are the most valuable customers and most loyal customers? <br/>
+• Who are the most valuable customers and most loyal customers? <br/> 
 • Which state has the highest number of Sales and customers? <br/>
 • Which is the top-selling product category and sub-category? <br/>
 • Which is the preferred ship mode? <br/>
